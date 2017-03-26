@@ -1,6 +1,6 @@
 # Customization items for PLAYERUNKNOWN'S BATTLEGROUNDS
 
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010001.png]]
+[[https://github.com/dnn1s/pubg-items/blob/master/img/11010001.png|alt=11010001]]
 [[https://github.com/dnn1s/pubg-items/blob/master/img/11010002.png]]
 [[https://github.com/dnn1s/pubg-items/blob/master/img/11010003.png]]
 [[https://github.com/dnn1s/pubg-items/blob/master/img/11010004.png]]
