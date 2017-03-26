@@ -1,108 +1,108 @@
 # Customization items for PLAYERUNKNOWN'S BATTLEGROUNDS
 
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010001.png|alt=11010001]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010008.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010009.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010010.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010011.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010012.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010013.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11010014.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11020008.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11030007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11040001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11040002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11040003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050008.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050009.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050010.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050011.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11050012.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11060001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11060002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11060003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11060004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11060005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11070001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11070002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/11080006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/13000001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/13000002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010002_.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010008.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21010009.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21020001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21020002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21020003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21020004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21030001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21030002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/21090001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31010006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31019901.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020007.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020008.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020009.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020010.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020011.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020012.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31020013.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030003.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030004.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030005.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31030006.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31040001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31050001.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31050002.png]]
-[[https://github.com/dnn1s/pubg-items/blob/master/img/31050004.png]]
+<img src="11010001.png"/>
+<img src="11010002.png"/>
+<img src="11010003.png"/>
+<img src="11010004.png"/>
+<img src="11010005.png"/>
+<img src="11010006.png"/>
+<img src="11010007.png"/>
+<img src="11010008.png"/>
+<img src="11010009.png"/>
+<img src="11010010.png"/>
+<img src="11010011.png"/>
+<img src="11010012.png"/>
+<img src="11010013.png"/>
+<img src="11010014.png"/>
+<img src="11020001.png"/>
+<img src="11020002.png"/>
+<img src="11020003.png"/>
+<img src="11020004.png"/>
+<img src="11020005.png"/>
+<img src="11020006.png"/>
+<img src="11020007.png"/>
+<img src="11020008.png"/>
+<img src="11030001.png"/>
+<img src="11030002.png"/>
+<img src="11030003.png"/>
+<img src="11030004.png"/>
+<img src="11030005.png"/>
+<img src="11030006.png"/>
+<img src="11030007.png"/>
+<img src="11040001.png"/>
+<img src="11040002.png"/>
+<img src="11040003.png"/>
+<img src="11050001.png"/>
+<img src="11050002.png"/>
+<img src="11050003.png"/>
+<img src="11050004.png"/>
+<img src="11050005.png"/>
+<img src="11050006.png"/>
+<img src="11050007.png"/>
+<img src="11050008.png"/>
+<img src="11050009.png"/>
+<img src="11050010.png"/>
+<img src="11050011.png"/>
+<img src="11050012.png"/>
+<img src="11060001.png"/>
+<img src="11060002.png"/>
+<img src="11060003.png"/>
+<img src="11060004.png"/>
+<img src="11060005.png"/>
+<img src="11070001.png"/>
+<img src="11070002.png"/>
+<img src="11080001.png"/>
+<img src="11080002.png"/>
+<img src="11080003.png"/>
+<img src="11080004.png"/>
+<img src="11080005.png"/>
+<img src="11080006.png"/>
+<img src="13000001.png"/>
+<img src="13000002.png"/>
+<img src="21010001.png"/>
+<img src="21010002.png"/>
+<img src="21010002_.png"/>
+<img src="21010003.png"/>
+<img src="21010004.png"/>
+<img src="21010005.png"/>
+<img src="21010006.png"/>
+<img src="21010007.png"/>
+<img src="21010008.png"/>
+<img src="21010009.png"/>
+<img src="21020001.png"/>
+<img src="21020002.png"/>
+<img src="21020003.png"/>
+<img src="21020004.png"/>
+<img src="21030001.png"/>
+<img src="21030002.png"/>
+<img src="21090001.png"/>
+<img src="31010001.png"/>
+<img src="31010002.png"/>
+<img src="31010003.png"/>
+<img src="31010004.png"/>
+<img src="31010005.png"/>
+<img src="31010006.png"/>
+<img src="31019901.png"/>
+<img src="31020001.png"/>
+<img src="31020002.png"/>
+<img src="31020003.png"/>
+<img src="31020004.png"/>
+<img src="31020005.png"/>
+<img src="31020006.png"/>
+<img src="31020007.png"/>
+<img src="31020008.png"/>
+<img src="31020009.png"/>
+<img src="31020010.png"/>
+<img src="31020011.png"/>
+<img src="31020012.png"/>
+<img src="31020013.png"/>
+<img src="31030001.png"/>
+<img src="31030002.png"/>
+<img src="31030003.png"/>
+<img src="31030004.png"/>
+<img src="31030005.png"/>
+<img src="31030006.png"/>
+<img src="31040001.png"/>
+<img src="31050001.png"/>
+<img src="31050002.png"/>
+<img src="31050004.png"/>
